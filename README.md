@@ -18,3 +18,10 @@ Analytical modeling (CLT) + ABAQUS FEM + full-scale experimental validation.
 - **Testing**: three-point bend, load–deflection capture and FEM comparison.
 
 ## Repo Map
+
+## Next
+- Progressive failure modeling in ABAQUS.
+- Python loop for laminate optimization.
+- Add DIC strain mapping.
+
+**Author**: Siddardth Pathipaka · siddardth1524@gmail.com · LinkedIn: siddardth-pathipaka
